@@ -9,5 +9,11 @@ public class Benchmark {
         return results;
 
     }
+
+    public static Results medir(Runnable runnable, String string, int i, Object object, String string2, int j,
+            Object object2, String string3, int k) {
+        // TODO Auto-generated method stub
+        throw new UnsupportedOperationException("Unimplemented method 'medir'");
+    }
     
 }
